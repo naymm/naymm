@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Aldair André, and I am a Front End Web Developer, i’m currently learning,React,TypeScript and Firebase!
+## I'm Naym Mupoia, and I am a Back End Web Developer, i’m currently learning,React,TypeScript and Firebase!
 <div align="center">
   <a href="https://github.com/naymm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naymm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
